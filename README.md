@@ -10,9 +10,9 @@
 
 - **[GITHUB+HEXO](https://whiteshds.ml/)** 
 
-- **[CODING+JEKYLL](https://whiteshds.ga/)**  
+- **[+JEKYLL](https://whiteshds.ga/)**  
 
-- **[CODING+GRIDEA](https://whiteshds.cf/)**  
+- **[+GRIDEA](https://whiteshds.cf/)**  
 
     
 
