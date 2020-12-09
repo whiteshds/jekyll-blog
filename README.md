@@ -47,6 +47,24 @@
 - **Linux**, Familiar&Learning
 - **VMWARE**, Familiar
 - **SUBLIME TEXT**, Familiar
+<!-- .slide -->
+
+## 初心
+
+我曾做什么？
+
+我正做什么？
+
+我想做什么？
+
+我该做什么？
+
+<!-- .slide vertical=true -->
+
+目标是打造一个尽可能简洁，而可定制内容又尽可能丰富的博客。如果有更好的建议，欢迎给我提 Issue！
+
+<!-- .slide -->
+
 ## 声明
 
 <!-- .slide vertical=true -->
@@ -102,3 +120,4 @@ Live2D Model 来自于[imuncle/live2d](https://github.com/imuncle/live2d)和[xia
 头像、壁纸来自于<https://www.pixiv.net/artworks/72096124>、<https://www.pixiv.net/artworks/71932901>和<https://www.pixiv.net/artworks/74559485>，感谢（侵权必删）。
 
 头像翻转效果受启发自[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)，感谢。
+
