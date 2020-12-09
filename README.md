@@ -1,5 +1,6 @@
 # WHITESHDS
-
+感谢原主题作者wu-kan 
+[jekyll-theme-WuK](https://github.com/wu-kan)，感谢。
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
 <!-- .slide -->
