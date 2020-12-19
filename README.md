@@ -36,18 +36,18 @@
 
 <!-- .slide vertical=true -->
 
-- **HTML/JS/CSS**, Familiar
-  - **JAVA**, Familiar&Learning
-  - **AE/PR**, Familiar&Learning
-- **GIT/DOCKER**, Familiar
+- **HTML/JS/CSS**, Learning
+  - **JAVA**, Learning
+  - **AE/PR**, Learning
+- **GIT/DOCKER**, Learning
 
 <!-- .slide vertical=true -->
 
-- **Markdown**, Familiar
-- **WIN&MAC**, Familiar
-- **Linux**, Familiar&Learning
+- **Markdown**, Learning
+- **WIN&MAC**, Familiar&Learning
+- **Linux**, Learning
 - **VMWARE**, Familiar
-- **SUBLIME TEXT**, Familiar
+- **SUBLIME TEXT**, Learning
 <!-- .slide -->
 
 ## 初心
